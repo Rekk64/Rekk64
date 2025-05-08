@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rekk64
-- 👀 I’m interested in Website Developmetn
-- 🌱 I’m currently learning PHP,laravel
+- 👀 I’m interested in ...Website Development
+- 🌱 I’m currently learning ...PHP,laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@nyanpyaetun4105@gmail.com
 - 😄 Pronouns: ...He
